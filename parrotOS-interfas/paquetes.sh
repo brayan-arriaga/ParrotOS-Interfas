@@ -23,7 +23,7 @@ sleep 3
 
 echo "[3] Extennsiones de X11"
 sleep 2
-sudo apt install libxcb-xtest0-dev libxcb-shape0-dev
+sudo apt install libxcb-xtest0-dev libxcb-shape0-dev libxcb-xkb-dev
 echo "Extenciones instaladas"
 
 sleep 3
