@@ -8,7 +8,7 @@ sleep 3
 
 echo "[1] Herramientas basicas del sistema"
 sleep 2
-sudo apt install build-essential git vim
+sudo apt install build-essential git vim kitty
 echo "Herramientas instaladas"
 
 sleep 3
