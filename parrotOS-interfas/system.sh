@@ -19,7 +19,7 @@ echo "Actualizacion correcta"
 sleep 2
 
 echo "[3] limpando paquetes"
-sudo apt remove
+sudo apt autoremove -y
 
 sleep 3 
 
