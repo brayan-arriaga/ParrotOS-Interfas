@@ -13,7 +13,7 @@ sleep 2
 echo "[2] Actualizando todos los paquetes instalados"
 sleep 3
 
-sudo apt full-upgrade 
+sudo apt full-upgrade -y
 
 echo "Actualizacion correcta"
 sleep 2
