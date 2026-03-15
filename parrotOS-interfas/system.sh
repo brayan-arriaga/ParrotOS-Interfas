@@ -2,10 +2,14 @@
 
 set -e
 
+echo "=========================================="
+echo "         ACTUALIZANDO SISTEMA             "
+echo "=========================================="
+
 echo "[1] Actualizando  lista de paquetes"
 sleep 3
 
-sudo apt update 
+sudo apt update && sudo parrot-upgrade
 
 echo "Actualizacion correcta"
 sleep 2 
@@ -18,13 +22,16 @@ sudo apt full-upgrade -y
 echo "Actualizacion correcta"
 sleep 2
 
-echo "[3] limpando paquetes"
+echo "Limpando paquetes"
 sudo apt autoremove -y
+sudo apt autoclean
 
 sleep 3 
 
-echo "Actualizacion de sistema finalizado"
-
+echo "==========================================="
+echo "    ACTUALIZACION DE SISTEMA FINALIZADO    "
+echo "==========================================="
 sleep 5
+
 
 
