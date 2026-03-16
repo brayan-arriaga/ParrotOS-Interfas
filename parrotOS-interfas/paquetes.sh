@@ -34,6 +34,11 @@ echo "Audio instalada"
 
 sleep 3
 
+echo "[5] fondos"
+sleep 2
+cp -r fondo $HOME/Pictures/
+
+
 echo "====================================="
 echo " INSTALACIONES DE PAQUETES COMPLETAS "
 echo "====================================="
