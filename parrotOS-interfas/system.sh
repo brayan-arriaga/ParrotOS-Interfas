@@ -20,7 +20,7 @@ sleep 3
 
 sudo apt full-upgrade -y
 
-echo "\033[0;35mActualizacion correcta\033[0m"
+echo -e "\033[0;35mActualizacion correcta\033[0m"
 sleep 2
 
 echo -e "\033[0;35m[3] Borrando archivos inecesarios"
