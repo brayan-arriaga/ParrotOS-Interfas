@@ -1,5 +1,5 @@
-# ParrotOS-Interfas
-# 🚀 Parrot OS Auto Setup
+
+#  ParrotOS-Interfas
 
 ## 🧠 Descripción
 
