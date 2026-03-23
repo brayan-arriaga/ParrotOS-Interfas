@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e 
 
-source ./color.sh
+source ./colors.sh
 
 echo -e "${azul}CONFIGURACION DE TERMIAL KITTY${NC}"
 
@@ -9,8 +9,8 @@ echo -e "${amarillo}[1] Copiando archivos de configuracion${NC}"
 
 cd ../configurations/kitty
 
-cp -r color.ini $HOME/.config/kitty/
-cp -r kitty.conf $HOME/.config/kitty/
+cp -r color.ini $HOME/.config/kitty
+cp -r kitty.conf $HOME/.config/kitty
 
 echo -e "${amarillo}[2] Copiando configuracion para zshrc${NC}" 
 
