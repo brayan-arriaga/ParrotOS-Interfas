@@ -1,0 +1,33 @@
+# ===============================
+#  Colores y apariencia
+# ===============================
+set linenumbers       # líneas numeradas
+set tabsize 4         # tab de 4 espacios
+set autoindent        # autoindentación
+set mouse             # permite mover el cursor con el mouse
+set titlecolor brightcyan
+#set foreground brightwhite
+#set background black
+#set matchbrackets     # resaltar paréntesis, llaves y corchetes
+#set smooth            # desplazamiento suave
+set nowrap            # no cortar líneas largas
+set backup            # copia de seguridad al guardar
+
+# ===============================
+#   Resaltado de sintaxis
+# ===============================
+# Incluye lenguajes comunes
+#include /usr/share/nano/bash.nanorc
+include /usr/share/nano/sh.nanorc
+include /usr/share/nano/python.nanorc
+include /usr/share/nano/json.nanorc
+include /usr/share/nano/markdown.nanorc
+include /usr/share/nano/html.nanorc
+include /usr/share/nano/css.nanorc
+
+# ===============================
+#   Comportamiento extra
+# ===============================
+set constantshow      # muestra posición del cursor
+set quickblank        # elimina mensaje de advertencia al borrar
+#set smooth            # scroll suave
