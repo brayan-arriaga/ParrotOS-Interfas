@@ -1,7 +1,8 @@
 
-#  ParrotOS-Interfas
+# ParrotOS-Interfas
+---
 
-## 🧠 Descripción
+## Descripción
 
 Script de automatización para configurar un entorno completo en Parrot OS desde cero.
 Incluye instalación de herramientas, configuración del sistema y personalización del entorno para pentesting y uso diario.
@@ -15,14 +16,14 @@ Incluye instalación de herramientas, configuración del sistema y personalizaci
 * 🛠️ Configuración de entorno (bspwm, polybar, etc.)
 * 🎨 Personalización (wallpaper, temas, fuentes)
 * ⚡ Optimización del sistema
-* 🖥️ (Opcional) integración con Neofetch
 
 ---
 
 ## 📸 Preview
 
 ```
-(Agrega aquí capturas de tu entorno o salida de neofetch)
+
+
 ```
 
 ---
