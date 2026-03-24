@@ -78,6 +78,6 @@ Automatizar la configuración de entornos de trabajo para ahorrar tiempo y evita
 
 ## 👨‍💻 Autor
 
-* brayan-arevalo
+* brayan-arriaga
 
 
