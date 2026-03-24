@@ -37,8 +37,8 @@ Incluye instalación de herramientas, configuración del sistema y personalizaci
 ## 📥 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/parrot-auto-setup.git
-cd parrot-auto-setup
+git clone https://github.com/brayan-arriaga/ParrotOS-Interfas.git
+cd ParrotOS-Interfas
 chmod +x install.sh
 ./install.sh
 ```
