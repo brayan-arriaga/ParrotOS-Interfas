@@ -20,7 +20,7 @@ Incluye instalación de herramientas, configuración del sistema y personalizaci
 
 ## 📸 Preview
 
-![Escritorio](captures/parrot)
+![Escritorio](captures/Parrot.png)
 
 ---
 
