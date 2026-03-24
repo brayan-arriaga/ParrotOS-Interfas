@@ -32,8 +32,7 @@ Incluye instalación de herramientas, configuración del sistema y personalizaci
 
 * Sistema basado en Debian (Recomendado: Parrot OS)
 * Conexión a internet
-* Permisos de superusuario (sudo)
-
+  
 ---
 
 ## 📥 Instalación
