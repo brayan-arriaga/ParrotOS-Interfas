@@ -22,6 +22,7 @@ Incluye instalación de herramientas, configuración del sistema y personalizaci
 
 ![Escritorio](captures/Parrot.png)
 
+![Escritorio-Desktop](captures/parrot-desktop.png)
 ---
 
 ## 🛠️ Requisitos
