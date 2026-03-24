@@ -1,6 +1,5 @@
 
 # ParrotOS-Interfas
----
 
 ## Descripción
 
@@ -66,29 +65,10 @@ Sigue las instrucciones en pantalla.
 
 ---
 
-## 📁 Estructura del proyecto
-
-```
-.
-├── install.sh
-├── config/
-│   ├── bspwm/
-│   ├── polybar/
-│   └── wallpapers/
-├── scripts/
-│   ├── system.sh
-│   ├── tools.sh
-│   └── theme.sh
-└── README.md
-```
-
----
-
 ## 🧪 Tecnologías utilizadas
 
 * Bash scripting
 * Linux (Parrot OS)
-* Herramientas de pentesting
 
 ---
 
@@ -100,23 +80,6 @@ Automatizar la configuración de entornos de trabajo para ahorrar tiempo y evita
 
 ## 👨‍💻 Autor
 
-* elgamer14
+* brayan-arevalo
 
----
 
-## 📄 Licencia
-
-MIT License
-
----
-
-## ⭐ Contribuciones
-
-Las contribuciones son bienvenidas.
-Puedes hacer un fork y enviar un pull request.
-
----
-
-## 📬 Contacto
-
-(Si quieres, puedes agregar tu GitHub o redes aquí)
